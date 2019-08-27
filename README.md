@@ -41,3 +41,6 @@ The app features four pages:
  * `Recent Trips` - this page displays the table of the user's saved road trips.
 
  * `Sign In/Sign Up` - this window handles user authentication by allowing users to sign up/sign in.
+ 
+ Visit this webpage by clicking the link below <br />
+ https://lychee-sundae-50558.herokuapp.com/
